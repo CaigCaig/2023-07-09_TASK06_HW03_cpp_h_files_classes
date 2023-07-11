@@ -1,6 +1,4 @@
 #include <iostream>
-#include "figure.h"
-#include "triangle.h"
 #include "e_triangle.h"
 
 E_triangle::E_triangle(int a) {

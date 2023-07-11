@@ -1,5 +1,4 @@
 #include <iostream>
-#include "figure.h"
 #include "quadrangle.h"
 
 Quadrangle::Quadrangle() {};

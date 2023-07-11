@@ -1,6 +1,4 @@
 #include <iostream>
-#include "figure.h"
-#include "quadrangle.h"
 #include "square.h"
 
 Square::Square(int a) {

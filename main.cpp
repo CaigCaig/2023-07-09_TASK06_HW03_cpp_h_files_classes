@@ -1,7 +1,6 @@
 ﻿#include <iostream>
 #include <Windows.h>
 #include <string>
-#include "figure.h"
 #include "triangle.h"
 #include "r_triangle.h"
 #include "i_triangle.h"

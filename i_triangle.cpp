@@ -1,6 +1,4 @@
 #include <iostream>
-#include "figure.h"
-#include "triangle.h"
 #include "i_triangle.h"
 
 I_triangle::I_triangle(int a, int b, int A, int B) {

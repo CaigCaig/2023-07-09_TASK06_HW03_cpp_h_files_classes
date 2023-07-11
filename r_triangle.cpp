@@ -1,6 +1,4 @@
 #include <iostream>
-#include "figure.h"
-#include "triangle.h"
 #include "r_triangle.h"
 
 R_triangle::R_triangle(int a, int b, int c, int A, int B) {

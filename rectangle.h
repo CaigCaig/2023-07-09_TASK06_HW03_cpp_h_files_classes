@@ -1,4 +1,6 @@
 #pragma once
+#include "figure.h"
+#include "quadrangle.h"
 
 class Rectangle_ : public Quadrangle {
 public:

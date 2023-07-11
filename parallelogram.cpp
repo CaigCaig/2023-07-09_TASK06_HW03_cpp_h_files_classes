@@ -1,6 +1,4 @@
 #include <iostream>
-#include "figure.h"
-#include "quadrangle.h"
 #include "parallelogram.h"
 
 Parallelogram::Parallelogram(int a, int b, int A, int B) {

@@ -1,6 +1,4 @@
 #include <iostream>
-#include "figure.h"
-#include "quadrangle.h"
 #include "rhomb.h"
 
 Rhomb::Rhomb(int a, int A, int B) {

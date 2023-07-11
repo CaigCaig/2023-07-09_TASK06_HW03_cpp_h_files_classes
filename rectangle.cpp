@@ -1,6 +1,4 @@
 #include <iostream>
-#include "figure.h"
-#include "quadrangle.h"
 #include "rectangle.h"
 
 Rectangle_::Rectangle_(int a, int b) {
